@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "../public/images/butters.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "../public/images/cartman.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "../public/images/cartmensMom.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "../public/images/Crabtree.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "../public/images/kenny.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "../public/images/kyle.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "../public/images/mrHankey.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "../public/images/randy.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "../public/images/shelia.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "../public/images/stan.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "../public/images/towelie.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "../public/images/tweek.png",
+        "clicked": false
+    }
+]
